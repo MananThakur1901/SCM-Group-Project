@@ -421,9 +421,9 @@ form a{
 
 
 
-*, *:before, *:after {
+/* *, *:before, *:after {
     box-sizing: inherit;
-  }
+  } */
   
   .column {
     float: right;
